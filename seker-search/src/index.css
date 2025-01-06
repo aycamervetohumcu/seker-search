@@ -30,12 +30,38 @@ body {
 
 .nav-links {
   display: flex;
+  text-align: center;
   gap: 20px;
+  font-family: "Oxygen", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  font-style: normal;
+  line-height: 25.25px;
+  cursor: pointer;
+  
 }
 
 .nav-links a {
-  color: #666;
+  color: #8b8a8b;
   text-decoration: none;
+}
+
+.signIn {
+  color: #b742ff;
+  font-size: 20px;
+  font-family: "Oxygen", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  line-height: auto;
+  cursor: pointer;
+}
+
+.signIn:hover {
+  color: #8b8a8b;
+}
+
+.arrowIcon {
+  margin-left: 10px;
 }
 
 .search-container {
