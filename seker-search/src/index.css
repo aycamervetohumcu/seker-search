@@ -81,6 +81,7 @@ body {
   color: #666;
   font-weight: 400;
   font-style: normal;
+  padding-right: 100px; 
 }
 
 .search-button {
