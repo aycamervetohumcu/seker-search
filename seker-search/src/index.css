@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Oxygen:wght@300;400;700&display=swap");
+
 body {
   background-color: #fff1ff;
   margin: 0;
@@ -18,9 +20,12 @@ body {
 }
 
 .logo {
-  color: #c800ff;
-  font-size: 24px;
-  font-weight: bold;
+  color: #b742ff;
+  font-size: 30px;
+  font-family: "Oxygen", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  line-height: 37.88px;
 }
 
 .nav-links {
